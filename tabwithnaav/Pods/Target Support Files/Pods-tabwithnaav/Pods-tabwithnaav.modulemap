@@ -1,0 +1,6 @@
+framework module Pods_tabwithnaav {
+  umbrella header "Pods-tabwithnaav-umbrella.h"
+
+  export *
+  module * { export * }
+}

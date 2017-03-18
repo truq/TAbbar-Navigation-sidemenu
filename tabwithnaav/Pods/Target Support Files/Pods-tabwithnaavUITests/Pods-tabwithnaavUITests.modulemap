@@ -1,0 +1,6 @@
+framework module Pods_tabwithnaavUITests {
+  umbrella header "Pods-tabwithnaavUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
